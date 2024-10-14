@@ -27,9 +27,25 @@ main {
     flex-wrap: wrap;
     
 }
-.feature {
-    flex: 30%;
-    background-color: #e7cd78;
+.feature-one {
+    background-color: #FFDDC1; 
+    flex:30%;
+    padding: 50px;
+    margin-right: 1px;
+   text-align: center;
+}
+
+.feature-two {
+    background-color: #CFE2F3; 
+    flex:30%;
+    padding: 50px;
+    margin-right: 1px;
+   text-align: center;
+}
+
+.feature-three {
+    background-color: #D9EAD3; 
+    flex:30%;
     padding: 50px;
     margin-right: 1px;
    text-align: center;
